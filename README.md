@@ -10,6 +10,6 @@ strat = pd.read_csv('/Users/parthajit/Desktop/InterIIT/ZeltaLab_InterIIT/InterII
 ```
 - Replace `hist` with `btcusdt_1h.csv` file location
 - Replace `strat` with `signals.csv` file location
-- Make sure `signals.csv` has a column named `signals'
+- Make sure `signals.csv` has a column named `signals`
 - Start a python environment in VS Code
 - Press `Restart` and `Run ALL`
